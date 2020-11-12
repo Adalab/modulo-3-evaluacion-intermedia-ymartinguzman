@@ -1,2 +1,0 @@
-(this["webpackJsonpmy-react-project-lesson-4"]=this["webpackJsonpmy-react-project-lesson-4"]||[]).push([[0],[,,,,,,,,,function(e,t,n){},function(e,t,n){},function(e){e.exports=JSON.parse("{}")},function(e,t,n){"use strict";n.r(t);var c=n(1),o=n(0),r=n.n(o),s=n(3),a=n.n(s);n(9),n(10),n(11);var i=function(){return Object(c.jsx)("div",{className:"App",children:"Hola mundo!!!!"})};a.a.render(Object(c.jsx)(r.a.StrictMode,{children:Object(c.jsx)(i,{})}),document.getElementById("root"))}],[[12,1,2]]]);
-//# sourceMappingURL=main.0029c692.chunk.js.map
