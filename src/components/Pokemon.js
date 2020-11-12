@@ -15,8 +15,8 @@ class Pokemon extends React.Component {
       <div className="container-border">
         <img src={this.props.img} alt={this.props.name} className=""></img>
         <div className="">
-          <h2>{this.props.name}</h2>
-          <ul>{card}</ul>
+          <h2 className="title-card">{this.props.name}</h2>
+          <ul className="title-type">{card}</ul>
         </div>
       </div>
     );
