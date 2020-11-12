@@ -1,0 +1,14 @@
+.main-container {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+}
+.card-container {
+  background-color: aqua;
+  margin: 10px;
+  border: 2px solid grey;
+  border-radius: 25px;
+}
+.title {
+  text-align: center;
+}
