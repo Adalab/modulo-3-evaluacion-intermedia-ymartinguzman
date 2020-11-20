@@ -1,19 +1,36 @@
+.body {
+  background-color: #9ad3bc;
+}
 .main-container {
   display: flex;
   flex-wrap: wrap;
   list-style: none;
 }
 .card-container {
-  background-color: aqua;
+  background-color: #bce6eb;
   margin: 10px;
   border: 2px solid grey;
   border-radius: 25px;
   width: 160px;
+  font-family: 'Goldman';
+  width: 200px;
+}
+.container-border {
+  text-align: center;
 }
 .title {
   text-align: center;
+  font-family: 'Goldman';
+  font-size: 40px;
 }
 .title-card {
   background-color: grey;
   text-transform: capitalize;
+}
+.title-type {
+  list-style: none;
+  width: 50%;
+}
+.image {
+  width: 60%;
 }
